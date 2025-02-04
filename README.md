@@ -13,7 +13,15 @@
 - [Pridikt](https://pridikt.com){:target="_blank"}  
 - [City BBQ](https://www.citybbq.com/order){:target="_blank"}  
 - [Picatech](https://picatech.com.au/){:target="_blank"} 
-
+<ul>
+    <li><a href="https://nexotips.com" target="_blank">Nexotips Infotech</a></li>
+    <li><a href="https://www.wecompare.com/" target="_blank">We Compare</a></li>
+    <li><a href="https://www.adoreal.com/en" target="_blank">Adoreal</a></li>
+    <li><a href="https://ecommify.io" target="_blank">Ecommify</a></li>
+    <li><a href="https://pridikt.com" target="_blank">Pridikt</a></li>
+    <li><a href="https://www.citybbq.com/order" target="_blank">City BBQ</a></li>
+    <li><a href="https://picatech.com.au/" target="_blank">Picatech</a></li>
+</ul>
 - 📝 I regularly write articles on [https://blog.nexotips.com/](https://blog.nexotips.com/)
 
 - 💬 Ask me about **Angular, React, Express, Nodejs and Web design**
