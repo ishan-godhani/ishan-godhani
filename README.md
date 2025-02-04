@@ -6,13 +6,6 @@
 - 🌱 I’m currently learning **Devops,**
 
 - 👨‍💻 All of my projects are available at 
-- [Nexotips Infotech](https://nexotips.com){:target="_blank"}
-- [We Compare](https://www.wecompare.com/){:target="_blank"}
-- [Adoreal](https://www.adoreal.com/en){:target="_blank"}  
-- [Ecommify](https://ecommify.io){:target="_blank"}  
-- [Pridikt](https://pridikt.com){:target="_blank"}  
-- [City BBQ](https://www.citybbq.com/order){:target="_blank"}  
-- [Picatech](https://picatech.com.au/){:target="_blank"} 
 <ul>
     <li><a href="https://nexotips.com" target="_blank">Nexotips Infotech</a></li>
     <li><a href="https://www.wecompare.com/" target="_blank">We Compare</a></li>
