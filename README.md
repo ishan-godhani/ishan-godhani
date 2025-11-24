@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishan Godhani</h1>
-<h3 align="center">A passionate frontend developer and CEO of Nexotips Infotech from India</h3>
+<h3 align="center">A passionate full stack developer </h3>
 
 - 🔭 I’m currently working on [Textile Manager](textilemanage.com)
 
@@ -7,7 +7,6 @@
 
 - 👨‍💻 All of my projects are available at 
 <ul>
-    <li><a href="https://nexotips.com" target="_blank">Nexotips Infotech</a></li>
     <li><a href="https://www.wecompare.com/" target="_blank">We Compare</a></li>
     <li><a href="https://www.adoreal.com/en" target="_blank">Adoreal</a></li>
     <li><a href="https://ecommify.io" target="_blank">Ecommify</a></li>
@@ -15,7 +14,6 @@
     <li><a href="https://www.citybbq.com/order" target="_blank">City BBQ</a></li>
     <li><a href="https://picatech.com.au/" target="_blank">Picatech</a></li>
 </ul>
-- 📝 I regularly write articles on [https://blog.nexotips.com/](https://blog.nexotips.com/)
 
 - 💬 Ask me about **Angular, React, Express, Nodejs and Web design**
 
